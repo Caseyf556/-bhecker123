@@ -1,4 +1,4 @@
-# -bhecker123
+# Instructor -bhecker123
 
 # Summarize the project and what problem it was solving.
 For this project I tried to create a simple program that prints the multiplication tables for any number that is double by the value of any number entered
